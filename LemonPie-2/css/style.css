@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@font-face {
+    font-family: "Play fair Display";
+    src: url("../font/PlayfairDisplay-Italic-VariableFont_wght.ttf");
+}
+body{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+.banner{
+    background-image: url(../img/lemon-pie2.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 343px;
+}
+
+
+h3{
+    font-family:"Play fair Display";
+}
+
+span{
+    color: orange;
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type:none
+}
