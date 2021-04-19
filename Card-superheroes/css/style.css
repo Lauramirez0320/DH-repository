@@ -63,7 +63,7 @@ header{
     left: 20px;
     position: absolute;
     top: 20px;
-    z-index: 1;
+    z-index: 3;
 }
 .header{
     position: relative;
@@ -76,7 +76,7 @@ header{
     position: absolute;
     top: 120px;
     width: 150px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .imgContentBack{
@@ -84,6 +84,7 @@ header{
     height: 200px;
     position: relative;
     width: 100%;
+    z-index: 1;
 }
 .back{
     background-repeat: no-repeat;
@@ -92,24 +93,24 @@ header{
 }
 
 .imgheroe1{
-    background-image: url("/Card-superheroes/img/batman.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/batman.jpg");
     }
 .imgBcgheroe1{
-    background-image: url("/Card-superheroes/img/bg-batman.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/bg-batman.jpg");
 }
 
 .imgheroe2{
-    background-image: url("/Card-superheroes/img/wonderw.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/wonderw.jpg");
     }
 .imgBcgheroe2{
-    background-image: url("/Card-superheroes/img/bg-wonderw.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/bg-wonderw.jpg");
 }
 
 .imgheroe3{
-    background-image: url("/Card-superheroes/img/superman.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/superman.jpg");
     }
 .imgBcgheroe3{
-    background-image: url("/Card-superheroes/img/bg-superman.jpg");
+    background-image: url("/FrontEnd-Repo/DH-repository/Card-superheroes/img/bg-superman.jpg");
 }
 
 .card-body{
