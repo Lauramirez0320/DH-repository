@@ -93,10 +93,10 @@ header{
 }
 
 .imgheroe1{
-    background-image: url("../img/batman.jpg");
+    background-image: url("./img/batman.jpg");
     }
 .imgBcgheroe1{
-    background-image: url("../img/bg-batman.jpg");
+    background-image: url("./img/bg-batman.jpg");
 }
 
 .imgheroe2{
